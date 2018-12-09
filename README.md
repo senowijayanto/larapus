@@ -1,1 +1,2 @@
-# larapus
+# LARAPUS
+Laravel Perpustakaan
